@@ -36,3 +36,1787 @@
     transform: rotate(360deg);
   }
 }
+
+.Rectangle110{
+  position: absolute;
+  width: 1011.09px;
+  height: 545px;
+  left: 140px;
+  top: 85px;
+  background: #FFFFFF;
+  box-shadow: 0px 2.86228px 11.4491px rgba(0, 0, 0, 0.25);
+  border-radius: 14.3114px;
+}
+
+.Rectangle84{
+  position: absolute;
+width: 280px;
+height: 234.52px;
+left: 40.66px;
+top: 100px;
+background: #F5F7FA;
+border-radius: 7px;
+}
+
+.Rectangle85{
+  position: absolute;
+  width: 40px;
+  height: 234.52px;
+  left: 40px;
+  top: 0px;
+  background: #EFF2F7;
+
+  Opacity: 55%;
+  font-family: Proxima Nova;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0.3577844202518463px;
+  text-align: center;
+}
+
+.Rectangle86{
+  position: absolute;
+  width: 40px;
+  height: 235px;
+  left: 120px;
+  top: 0px;
+  background: #EFF2F7;
+
+  Opacity: 55%;
+  font-family: Proxima Nova;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0.3577844202518463px;
+  text-align: center;
+}
+
+.Rectangle87{
+  position: absolute;
+  width: 40px;
+  height: 234.52px;
+  left: 200px;
+  top: 0px;
+  background: #EFF2F7;
+
+  Opacity: 55%;
+  font-family: Proxima Nova;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0.3577844202518463px;
+  text-align: center;  
+}
+
+.Rectangle111{
+  position: absolute;
+  width: 630px;
+  height: 400px;
+  left: 340px;
+  top: 100px;
+  background: #EFF2F6;
+  opacity: 0.6;
+  border-radius: 7px;
+}
+
+.Rectangle112{
+  position: absolute;
+  width: 90px;
+  height: 400px;
+  left: 90px;
+  background: #D7DEE9;
+}
+
+.Rectangle113{
+  position: absolute;
+  width: 90px;
+  height:400px;
+  left: 270px;
+  background: #D7DEE9;
+  border: 1px solid #FF5A66;
+  box-sizing: border-box;
+}
+
+.Rectangle114{
+  position: absolute;
+  width: 90px;
+  height: 400px;
+  left: 450px;
+  background: #D7DEE9;
+}
+
+.Days{
+  position: absolute;
+  width: 280px;
+  height: 24.52px;
+  left: 40.66px;
+  top: 80px;
+  font-family: Roboto;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 17px;
+  letter-spacing: 0.0045em;
+}
+
+.SUN{
+  position: absolute;
+  width: 40px;
+  height: 24.52px;
+}
+.MON{
+  position: absolute;
+  width: 40px;
+  height: 24.52px;
+  left: 40px;
+}
+.TUE{
+  position: absolute;
+  width: 40px;
+  height: 24.52px;
+  left: 80px;
+}
+.WED{
+  position: absolute;
+  width: 40px;
+  height: 24.52px;
+  left: 120px;
+}
+.THU{
+  position: absolute;
+  width: 40px;
+  height: 24.52px;
+  left: 160px;
+}
+.FRI{
+  position: absolute;
+  width: 40px;
+  height: 24.52px;
+  left: 200px;
+}
+.SAT{
+  position: absolute;
+  width: 40px;
+  height: 24.52px;
+  left: 240px;
+}
+
+.Dates{
+  Opacity: 55%;
+  font-family: Proxima Nova;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0.3577844202518463px;
+  text-align: center;  
+}
+
+.Thirtylight{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+  Opacity: 40%;
+}
+
+.Six{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+
+.Thirteen{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+
+.Twenty{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+
+.Twentyseven{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+
+.One{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Eight{
+  height: 47px;
+  width: 47px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: 100px;
+  /* position: absolute; */
+/* width: 21px;
+height: 21px;
+left: 371px;
+top: 306px; */
+
+background: #FF5A66;
+}
+.Fifteen{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Twentytwo{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Twentynine{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Three{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Ten{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Seventeen{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Twentyfour{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.ThirtyOne{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Twentyninelight{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+  opacity: 40%!important;
+}
+.Five{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Twelve{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Nineteen{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Twentysix{
+  height: 47px;
+  width: 40px;
+  left: 418.484375px;
+  top: 274.643798828125px;
+  border-radius: nullpx;
+}
+.Thirtyonelight{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 80.484375px;
+  top: 0px;
+  border-radius: nullpx;
+  opacity: 40%!important;
+}
+.Seven{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 80.484375px;
+  top: 47px;
+  border-radius: nullpx;
+}
+.Forteen{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 80.484375px;
+  top: 94px;
+  border-radius: nullpx;
+}
+.Twentyone{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 80.484375px;
+  top: 141px;
+  border-radius: nullpx;
+}
+.Twentyeight{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 80.484375px;
+  top: 188px;
+  border-radius: nullpx;
+}
+.Two{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 160.484375px;
+  top: 0px;
+  border-radius: nullpx;
+}
+.Nine{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 160.484375px;
+  top: 47px;
+  border-radius: nullpx;
+}
+.Sixteen{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 160.484375px;
+  top: 94px;
+  border-radius: nullpx;
+}
+.Twentythree{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 160.484375px;
+  top: 141px;
+  border-radius: nullpx;
+}
+.Thirtyheavy{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 160.484375px;
+  top: 188px;
+  border-radius: nullpx;
+}
+.Four{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 240.484375px;
+  top: 0px;
+  border-radius: nullpx;
+}
+.Eleven{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 240.484375px;
+  top: 47px;
+  border-radius: nullpx;
+}
+.Eighteen{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 240.484375px;
+  top: 94px;
+  border-radius: nullpx;
+}
+.Twentyfive{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 240.484375px;
+  top: 141px;
+  border-radius: nullpx;
+}
+.Onelight{
+  position: absolute;
+  height: 47px;
+  width: 40px;
+  left: 240.484375px;
+  top: 188px;
+  border-radius: nullpx;
+  opacity: 40%;
+}
+.Month{
+  position: absolute;
+width: 104.47px;
+height: 10.02px;
+left: 45px;
+top: 55px;
+font-family: Proxima Nova;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 0.3577844202518463px;
+text-align: left;
+color: #2A2E35;
+}
+.Year{
+  font-family: Proxima Nova;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 14px;
+letter-spacing: 0.3577844202518463px;
+text-align: left;
+}
+.Vector{
+  position: absolute;
+width: 0px;
+height: 463.33px;
+left: 330px;
+top: 50px;
+
+border: 0.715569px solid rgba(196, 196, 196, 0.5);
+}
+.Sun5{
+  position: absolute;
+  width: 51px;
+  height: 25px;
+  left: 0px;
+  top: 5px;
+  font-size: 12px;
+}
+.Mon6{
+  position: absolute;
+  width: 51px;
+  height: 25px;
+  left: 0px;
+  top: 5px;
+  font-size: 12px;
+}
+.Tue7{
+  position: absolute;
+  width: 51px;
+  height: 25px;
+  left: 180px;
+  top: 5px;
+  font-size: 12px;
+}
+.Wed8{
+  position: absolute;
+  width: 51px;
+  height: 25px;
+  left: 0px;
+  top: 5px;
+  font-size: 12px;
+}
+.Thu9{
+  position: absolute;
+  width: 51px;
+  height: 25px;
+  left: 360px;
+  top: 5px;
+  font-size: 12px;
+}
+.Fri10{
+  position: absolute;
+  width: 48px;
+  height: 25px;
+  left: 0px;
+  top: 5px;
+  font-size: 12px;
+}
+.Sat11{
+  position: absolute;
+  width: 47px;
+  height: 25px;
+  left: 540px;
+  top: 5px;
+  font-size: 12px;
+}
+.Weekdate{
+  font-size: 26px;
+  font-weight: 700;
+  color: #18214D;
+}
+.Today{
+  position: absolute;
+width: 40px;
+height: 15px;
+left: 40px;
+top: 0px;
+
+background: #FF5A66;
+border-radius: 2px;
+}
+.Appointmenttype{
+  position: absolute;
+width: 240px;
+height: 96px;
+left: 50px;
+top: 390px;
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: normal;
+font-size: 14.31px;
+line-height: 14px;
+text-align: center;
+letter-spacing: 0.5px;
+
+color: #18214D;
+}
+.Appointment{
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 10px;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+.Free{
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+.Please{
+  position: absolute;
+  width: 280px;
+  left: -20px;
+  margin-top: 10px;
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+.Week{
+  font-family: Proxima Nova;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 0.3577844202518463px;
+text-align: left;
+position: absolute;
+width: 248.84px;
+height: 10.02px;
+left: 340px;
+top: 56.02px;
+}
+.Booking11{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 55px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking12{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 86px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking13{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 117px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking14{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 148px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking15{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 179px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking16{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 210px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking17{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 241px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking18{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 272px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking19{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 303px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking110{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 334px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking111{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 365px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking21{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 55px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking22{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 86px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking23{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 117px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking24{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 148px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+
+.Booking25{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 179px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking26{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 210px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking27{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 241px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking28{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 272px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking29{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 303px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking210{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 334px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking211{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 365px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking31{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 55px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking32{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 86px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking33{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 117px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking34{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 148px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+
+.Booking35{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 179px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking36{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 210px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking37{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 241px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking38{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 272px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking39{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 303px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking310{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 334px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking311{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 186px;
+  top: 365px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking41{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 55px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking42{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 86px;
+  
+  color: white;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking43{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 117px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking44{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 148px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+
+.Booking45{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 179px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking46{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 210px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking47{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 241px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking48{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 272px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking49{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 303px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking410{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 334px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking411{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 365px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking51{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 55px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking52{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 86px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking53{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 117px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking54{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 148px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+
+.Booking55{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 179px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking56{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 210px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking57{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 241px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking58{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 272px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking59{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 303px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking510{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 334px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking511{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 366px;
+  top: 365px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+
+.Booking61{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 55px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking62{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 86px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking63{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 117px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking64{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 148px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+
+.Booking65{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 179px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking66{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 210px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking67{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 241px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking68{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 272px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking69{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 303px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking610{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 334px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking611{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 06px;
+  top: 365px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking71{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 55px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking72{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 86px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking73{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 117px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking74{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 148px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+
+.Booking75{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 179px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking76{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 210px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking77{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 241px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking78{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 272px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking79{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 303px;
+  background: #C9CCD7;
+  opacity: 90;
+  border-radius: 2.24995px;
+}
+.Booking710{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 334px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Booking711{
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 546px;
+  top: 365px;
+  background: #FFFFFF;
+  border: 0.44999px solid #18214D;
+  box-sizing: border-box;
+  border-radius: 2.24995px;
+  line-height: 23px;
+}
+.Emoji{
+  height: 67.63948059082031px;
+width: 84.57658386230469px;
+border-radius: 0px;
+
+  position: absolute;
+left: 3.36%;
+right: 15.04%;
+top: 85.68%;
+bottom: 3.13%;
+background: #D9F1FA;
+}
+
+.Emoji2{
+  height: 8.7698974609375px;
+width: 9.4337158203125px;
+left: 83.41043090820312px;
+top: 27.448486328125px;
+border-radius: 0px;
+
+
+  position: absolute;
+left: 3.36%;
+right: 15.04%;
+top: 85.68%;
+bottom: 3.13%;
+background: #D9F1FA;
+}
+.Emoji5{
+  height: 32.66215896606445px;
+  width: 20.114654541015625px;
+  left: 88.90707397460938px;
+  top: 0.02685546875px;
+  border-radius: 0px;
+  position: absolute;
+  left: 81.57%;
+  right: -0.02%;
+  top: 0.04%;
+  bottom: 56.41%;
+  background: #18214D;
+}
+.Arrows{
+  /* height: 7.063801288604763px;
+  width: 4.238281250000016px; */
+  left: 199.953125px;
+  top: 15.7786865234375px;
+  /* border-radius: 0px; */
+  /* position: absolute; */
+  width: 24.24px;
+  height: 27.06px;
+  /* left: 499.95px;
+  top: 215.78px; */
+  background: url(Arrow.png);
+  
+  /* transform: rotate(-180deg);  */
+}
+.Available{
+  position: absolute;
+width: 110px;
+height: 22px;
+left: 910px;
+top: 640px;
+line-height: 21px;
+background: #FFFFFF;
+border: 0.5px solid #18214D;
+box-sizing: border-box;
+border-radius: 28px;
+}
+.Booked{
+  position: absolute;
+  width: 100px;
+  height: 22px;
+  left: 1030px;
+  top: 640px;
+  line-height: 22px;
+  background: #E4E7ED;
+  border-radius: 28px;
+}
+.Bookedcolor{
+  color: #A7ACBD;
+}
+.Appodetail{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: -1px;
+  top: 0px;
+  background: rgba(5, 5, 19, 0.5);
+}
+.Appodetailbox{
+  position: absolute;
+  left: 365px;
+  right: 365px;
+  top: 19px;
+  bottom: 25px;
+
+/* Colors / White */
+
+background: #FFFFFF;
+box-shadow: 0px 6.01274px 6.01274px rgba(51, 51, 51, 0.04), 0px 6.01274px 24.051px rgba(51, 51, 51, 0.08);
+border-radius: 12.0255px;
+}
+.Appointmentheader{
+  position: absolute;
+width: 682px;
+height: 72px;
+left: 100px;
+top: 48px;
+
+font-family: Proxima Nova!important;
+font-style: normal;
+font-weight: 800;
+font-size: 42px;
+line-height: 28px;
+/* or 67% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #07122A;
+}
+.Appointmentdate{
+  position: absolute;
+width: 408px;
+height: 75px;
+left: 140px;
+top: 140px;
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 24.051px;
+line-height: 36px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #07122A;
+}
+.Appointmentbookingtime{
+  position: absolute;
+  width: 447px;
+  left: 70px;
+  top: 70px;
+  bottom: 34.72%;
+
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 37px;
+  line-height: 22px;
+  /* identical to box height, or 59% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.41px;
+
+  /* color: #18214D; */
+
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 0;
+  align-self: center;
+  flex-grow: 0;
+  margin: 10px 0px;
+}
+.Phonenumber{
+  position: absolute;
+width: 385px;
+height: 17px;
+left: -10px;
+top: 300px;
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 125%;
+/* or 24px */
+
+text-align: center;
+
+color: #07122A;
+}
+.Container{
+  position: absolute;
+height: 52px;
+width: 350px;
+left: 115px;
+right: 137px;
+top: 330px;
+/* bottom: 65.5px; */
+
+background: #EFF2F6;
+border-radius: 8px;
+}
+.Reason{
+  position: absolute;
+width: 385px;
+height: 17px;
+left: 10px;
+top: 400px;
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 125%;
+/* or 24px */
+
+text-align: center;
+
+color: #07122A;
+}
+.Reasoncontainer{
+  position: absolute;
+height: 125px;
+left: 115px;
+width: 350px;
+top: 430px;
+background: #EFF2F6;
+border-radius: 8px;
+}
+.Pleasereason{
+  position: absolute;
+width: 363px;
+left: 10px;
+top: 10px;
+/* bottom: 31.76%; */
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+/* or 129% */
+
+display: flex;
+text-align: left;
+letter-spacing: -0.41px;
+
+color: rgba(11, 21, 45, 0.5);
+}
+.MakeAppointment{
+  position: absolute;
+width: 320px;
+height: 56px;
+left: 131px;
+top: 573px;
+
+background: #18214D;
+border-radius: 40px;
+}
+.makeappointmenttext{
+  position: absolute;
+height: 26px;
+left: 58px;
+right: 58px;
+top: calc(50% - 26px/2);
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 25px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+border-radius: 7px;
+}
+.Close{
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  top: 10px;
+  right: 10px;
+}
+.TextDeco{
+  text-decoration: none;
+}
